@@ -7,7 +7,7 @@ public class Faith {
         System.out.println("i'm tried");
 
         System.out.println("creating conflict with Faith");
-        System.out.println("more code")
+        System.out.println("more code");
 
 
         //aleks making mess
