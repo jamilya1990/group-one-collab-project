@@ -12,8 +12,15 @@ public class HelloGroup1 {
         //lets make peace not conflict lol
         //hello hello
         //adding additional lines for conflict
+
+        //creating conflict on line 15
+        //more lines line 16
+
         //dsdasd
         //dasdsa
+       //creating conflict on line 15
+        //more lines line 16
+
     }
 
 }
