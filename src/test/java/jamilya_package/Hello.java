@@ -2,5 +2,7 @@ package jamilya_package;
 
 public class Hello {
 
-    //Jamilya work
+    public static void main(String[] args) {
+
+    }
 }
